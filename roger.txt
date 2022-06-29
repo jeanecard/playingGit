@@ -1,4 +1,5 @@
 truc
 marcel
 roger dans master
-roger daqns master remodifié depuis master mais add avant bascule dans marcel => mais juste stashed
+roger daXXXns master remodifié depuis master mais add avant bascule dans marcel => mais juste stashed
+modif dans marcel
